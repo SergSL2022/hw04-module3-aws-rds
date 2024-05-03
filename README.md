@@ -31,6 +31,19 @@
 
 
 ## 3. Connect to DB with mysql util from that instance
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-04-32.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-06-56.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-09-51.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-10-07.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-14-28.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-35-46.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-36-27.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-36-50.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-37-31.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-42-00.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-05-04 01-41-15.png>)
+
+
 ## 4. Create some table
 ## 5. Insert values to that table
 ## 6. Get items from the table
