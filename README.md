@@ -45,6 +45,21 @@
 
 
 ## 4. Create some table
+![alt text](<screenshots/4/Знімок екрана з 2024-05-04 02-28-25.png>)
+![alt text](<screenshots/4/Знімок екрана з 2024-05-04 02-30-14.png>)
+
+
 ## 5. Insert values to that table
+![alt text](<screenshots/5/Знімок екрана з 2024-05-04 02-36-03.png>)
+
+
 ## 6. Get items from the table
+![alt text](<screenshots/6/Знімок екрана з 2024-05-04 02-37-49.png>)
+
+
 ## 7. Delete RDS and EC2
+![alt text](<screenshots/7/Знімок екрана з 2024-05-04 02-39-30.png>)
+![alt text](<screenshots/7/Знімок екрана з 2024-05-04 02-43-30.png>)
+![alt text](<screenshots/7/Знімок екрана з 2024-05-04 02-44-29.png>)
+![alt text](<screenshots/7/Знімок екрана з 2024-05-04 02-45-53.png>)
+![alt text](<screenshots/7/Знімок екрана з 2024-05-04 02-53-57.png>)
